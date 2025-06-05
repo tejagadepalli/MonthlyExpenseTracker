@@ -1,6 +1,4 @@
-# Income Expense Tracker Using Django
-
-#### Website Deployed on [Heroku](https://expenseincometrackerdjango.herokuapp.com/)
+# Income Expense Tracker
 
 ### Table of Contents
 - [Main Features](#main-features)
@@ -27,7 +25,7 @@
 
 ### Steps for running project
 ```bash
-git clone https://github.com/rishank-shah/Income-Expense-Tracker.git
+git clone https://github.com/teja/Income-Expense-Tracker.git
 cd Income-Expense-Tracker
 cp .env.example .env
 ```
